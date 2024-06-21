@@ -1,4 +1,4 @@
-![logo](https://github.com/Codermayankkk/Codermayankkk/blob/main/githubackground.jpg)
+![logo](https://github.com/Codermayankkk/Codermayankkk/blob/main/one.jpg)
 <h1 align="center">Hi 👋, I'm Mayank Matkar</h1>
 <h3 align="center">A Passionate Coder who just loves building stuff through Development</h3>
 
